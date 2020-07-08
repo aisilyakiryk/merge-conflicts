@@ -1,6 +1,16 @@
 # Degree
-- degree: Full Stack Webdeveloper Nanodegree
-  uni: Udacity
-  year: June, 2014 &mdash; January, 2015
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+- degree: Back-end developer
+  uni: BSUIR
+  year: September, 2016 &mdash; June, 2020
+  # awards:
+  summary:
+  My name's Ilya. I am 20 years old. I am a beginner back-end developer.
+  I worked with technologies:
+  .NET;
+  .NET Core;
+  ASP.NET;
+  ASP.NET Core; 
+  ASP.NET MVC; 
+  Entity Framework; 
+  Entity Framework Core;
+  ADO.NET.
