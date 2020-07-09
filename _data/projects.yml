@@ -8,5 +8,4 @@
  #url: #"https://github.com/probot/probot"
  #description: I haven't experience in real project development
 # probot
-- project: My experience
-  description: I haven't experience in real project development
+- description: I haven't experience in real project development
