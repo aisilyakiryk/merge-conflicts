@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 #probot
-  project: My experience
-  #role: #Contributor
-  #duration: #2016 &mdash; Present
-  #url: #"https://github.com/probot/probot"
-  description: I haven't experience in real project development
+-project: My experience
+ #role: #Contributor
+ #duration: #2016 &mdash; Present
+ #url: #"https://github.com/probot/probot"
+ description: I haven't experience in real project development
