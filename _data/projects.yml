@@ -2,9 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 #probot
-  project: I have no experience in real project development
-  #role: Contributor
-  #duration: 2016 &mdash; Present
-  #url: "https://github.com/probot/probot"
-  #description: A framework for building GitHub Apps to automate and improve your workflow
+  project: I haven't experience in real project development
+  role: #Contributor
+  duration: #2016 &mdash; Present
+  url: #"https://github.com/probot/probot"
+  description: # A framework for building GitHub Apps to automate and improve your workflow
 
